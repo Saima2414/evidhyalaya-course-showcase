@@ -10,7 +10,7 @@ A responsive and interactive course listing page built as part of the eVidhyalay
 
 ## 🌐 Live Demo
 
-[Click Here to View Live Site] https://www.loom.com/share/fb4065b3c8fa40b7b71c2844cc407be5?sid=2c4b85b8-0836-4b6a-a7b9-4e61438e90a3
+[Click Here to View Live Site] https://www.loom.com/share/fb4065b3c8fa40b7b71c2844cc407be5?sid=a71459bf-4e1d-4a7e-b107-564af088c8c3
 
 ## 📁 Project Structure
 
